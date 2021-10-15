@@ -43,6 +43,7 @@
     "@babel/core": "^7.11.0",
     "@babel/preset-env": "^7.11.0",
     "babel-loader": "^8.0.0",
+    "browserslist": "^4.17.4",
     "chai": "4.3.0",
     "core-js": "^3.8.0",
     "css-loader": "^5.0.2",
@@ -67,5 +68,6 @@
     "webpack": "^5.23.0",
     "webpack-cli": "^4.5.0",
     "webpack-shell-plugin-next": "^2.1.1"
-  }
+  },
+  "dependencies": {}
 }
