@@ -8,7 +8,7 @@ module.exports = function (api) {
           version: "3.8",
           proposals: false,
         },
-        useBuiltIns: "usage",
+        useBuiltIns: "entry",
         // The target is specified in the package.json "browserslist"
       },
     ],
