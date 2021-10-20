@@ -1102,7 +1102,7 @@ export default class Dropzone extends Emitter {
     };
 
     if (callback != null) {
-      img.onerror = callback;
+      //img.onerror = callback;
     }
 
     return (img.src = file.dataURL);
